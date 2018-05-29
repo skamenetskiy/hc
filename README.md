@@ -2,6 +2,7 @@
 
 [![Build
 Status](https://travis-ci.org/skamenetskiy/hc.svg?branch=master)](https://travis-ci.org/skamenetskiy/hc)
+[![codecov](https://codecov.io/gh/skamenetskiy/hc/branch/master/graph/badge.svg)](https://codecov.io/gh/skamenetskiy/hc)
 
 hc stands for "http client". It is built on top of
 [fasthttp](https://github.com/valyala/fasthttp) and provides some handy
