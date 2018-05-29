@@ -5,7 +5,6 @@ install:
   - dep ensure
 
 go:
-  - master
   - 1.10.x
   - 1.9.x
   - 1.8.x
