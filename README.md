@@ -1,7 +1,11 @@
 # hc
---
-    import "github.com/skamenetskiy/hc"
 
+[![Build
+Status](https://travis-ci.org/skamenetskiy/hc.svg?branch=master)](https://travis-ci.org/skamenetskiy/hc)
+
+hc stands for "http client". It is built on top of
+[fasthttp](https://github.com/valyala/fasthttp) and provides some handy
+shortcuts to http client methods.
 
 ## Usage
 
